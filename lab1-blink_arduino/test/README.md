@@ -15,8 +15,21 @@ int main(void)
     {
         // Generate a lettre `A` Morse code
 
-        // WRITE YOUR CODE HERE
 
+        // tecka v pismenu A
+        digitalWrite(LED_GREEN, HIGH);
+        _delay_ms(SHORT_DELAY);
+        digitalWrite(LED_GREEN, LOW);
+        _delay_ms(LONG_DELAY);
+
+        // carka v pismenu A
+        digitalWrite(LED_GREEN, HIGH);
+        _delay_ms(LONG_DELAY);
+        digitalWrite(LED_GREEN, LOW);
+        _delay_ms(SHORT_DELAY);
+
+        // mezera mezi slovy
+        _delay_ms(LONG_DELAY);
     }
 
     // Will never reach this
