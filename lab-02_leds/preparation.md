@@ -21,9 +21,13 @@
 
 &nbsp;
    ![ohms law](images/ohms_law.png)
+   
    ![ohms law](images/ohms_law1.png)
+   
    ![ohms law](images/ohms_law2.png)
+   
    ![ohms law](images/ohms_law3.png)
+   
 &nbsp;
 
    | **LED color** | **Supply voltage** | **LED current** | **LED voltage** | **Resistor value** |
