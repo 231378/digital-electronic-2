@@ -24,7 +24,9 @@
    
    ![ohms law](images/ohms_law1.png)
    
+   
    ![ohms law](images/ohms_law2.png)
+   
    
    ![ohms law](images/ohms_law3.png)
 &nbsp;
