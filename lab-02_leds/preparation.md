@@ -6,7 +6,7 @@
 1. Draw two basic ways to connect a LED to the output pin of the microcontroller: LED active-low, LED active-high.
 
 &nbsp;
-![gpio_high_low_button](images/gpio_high_low-button.png)
+![gpio_high_low](images/gpio_high_low.png)
 &nbsp;
 
 2. [Calculate LED resistor value](https://electronicsclub.info/leds.htm) for typical LEDs. Let the LED current is 20 milli amps.
@@ -37,7 +37,7 @@ R = \frac{V_{SUPPLY}-V_{LED}}{I} =
 3. Draw the basic ways to connect a push button to the microcontroller input pin: button active-low, button active-high.
 
 &nbsp;
-
+![gpio_high_low_button](images/gpio_high_low-button.png)
 &nbsp;
 
 &nbsp;
