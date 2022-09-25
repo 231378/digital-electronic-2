@@ -6,15 +6,7 @@
 1. Draw two basic ways to connect a LED to the output pin of the microcontroller: LED active-low, LED active-high.
 
 &nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
-&nbsp;
-
+![gpio_high_low_button](images/gpio_high_low_button.png)
 &nbsp;
 
 2. [Calculate LED resistor value](https://electronicsclub.info/leds.htm) for typical LEDs. Let the LED current is 20 milli amps.
@@ -24,9 +16,7 @@
    
    ![ohms law](images/ohms_law1.png)
    
-   
    ![ohms law](images/ohms_law2.png)
-   
    
    ![ohms law](images/ohms_law3.png)
 &nbsp;
