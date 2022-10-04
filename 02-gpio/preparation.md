@@ -39,7 +39,7 @@ The purpose of this laboratory exercise is to learn how to create your own libra
    | `uint16_t` | 16 | 0 to 65 535 | Unsigned 16-bit integer |
    | `int16_t`  | 16 | −32 768 to +32 767 | Signed  16-bit integer |
    | `float`    | 32 | -3.4e+38, ..., 3.4e+38 | Single-precision floating-point |
-   | `void`     | 0 | 0 |  |
+   | `void`     | 0 | 0 | "No return value" |
 
 <a name="part1"></a>
 
