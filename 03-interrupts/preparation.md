@@ -51,7 +51,7 @@ Consider an n-bit number that we increment based on the clock signal. If we reac
    | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
    | Timer/Counter0 | 8  | 16u | 128u | -- | | -- | | |
    | Timer/Counter1 | 16 |     |      | -- | | -- | | |
-   | Timer/Counter2 | 8  |     |      |    | |    | | |
+   | Timer/Counter2 | 8  | 16u | 128u |    | |    | | |
 
 <a name="part1"></a>
 
