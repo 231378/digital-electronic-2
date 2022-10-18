@@ -71,7 +71,7 @@ The purpose of the laboratory exercise is to understand the serial control of Hi
    | `W` | 87 | 0x57 |
    | `X` | 88 | 0x58 |
    | `Y` | 89 | 0x59 |
-   | `Z` | 90 | 0x60 |
+   | `Z` | 90 | 0x5A |
    | ... | ... | ... |
    | `a` | 97 | 0x61 |
    | `b` | 98 | 0x62 |
