@@ -38,9 +38,9 @@ The purpose of the laboratory exercise is to understand the serial control of Hi
    | RS | PB0 | Register selection signal. Selection between Instruction register (RS=0) and Data register (RS=1) |
    | R/W | GND | 0=write, 1=read |
    | E | PB1 | enable signal (falling edge) |
-   | D[3:0] | unconnected |  |
-   | D[7:4] | PD[7:4] |  |
-   | K | PB1 | backlight cathode |
+   | D[3:0] | unconnected | no operation |
+   | D[7:4] | PD[7:4] | 4-bit mode |
+   | K | PB2 | backlight cathode |
 
 2. What is the ASCII table? What are the codes/values for uppercase letters `A` to `Z`, lowercase letters `a` to `z`, and numbers `0` to `9` in this table?
 
