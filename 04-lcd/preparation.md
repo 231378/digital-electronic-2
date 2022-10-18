@@ -38,7 +38,7 @@ The purpose of the laboratory exercise is to understand the serial control of Hi
    | RS | PB0 | Register selection signal. Selection between Instruction register (RS=0) and Data register (RS=1) |
    | R/W | GND | 0=write, 1=read |
    | E | PB1 | enable signal (falling edge) |
-   | D[3:0] | no connection | no operation |
+   | D[3:0] | no connection | no operation (4-bit of 8-bit) |
    | D[7:4] | PD[7:4] | 4-bit mode |
    | K | PB2 | backlight cathode |
 
