@@ -47,13 +47,13 @@ The purpose of the laboratory exercise is to understand the serial control of Hi
    | **Char** | **Decimal** | **Hexadecimal** |
    | :-: | :-: | :-: |
    | `A` | 65 | 0x41 |
-   | `B` |  |  |
+   | `B` | 66 | 0x42 |
    | ... |  |  |
    | `a` | 97 | 0x61 |
-   | `b` |  |  |
+   | `b` | 98 | 0x62 |
    | ... |  |  |
    | `0` | 48 | 0x30 |
-   | `1` |  |  |
+   | `1` | 49 | 0x31 |
    | ... |  |  |
 
 <a name="part1"></a>
