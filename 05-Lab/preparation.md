@@ -6,4 +6,7 @@
 
 2. Remind yourself, what a [voltage divider](https://www.allaboutcircuits.com/tools/voltage-divider-calculator/) is.
 
+![delic](delic.png)
+
 <a name="part1"></a>
+
