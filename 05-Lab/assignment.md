@@ -7,11 +7,11 @@
    | **Push button** | **PC0[A0] voltage** | **ADC value (calculated)** | **ADC value (measured)** | **ADC value (measured, hex)** |
    | :-: | :-: | :-: | :-: | :-: |
    | Right  | 0&nbsp;V | 0   | 0 | 0 |
-   | Up     | 0.495&nbsp;V | 101 | 1443 | 8ff |
-   | Down   | 1.203&nbsp;V | 246 | 3423 | 156 |
-   | Left   | 1.969&nbsp;V | 402 | 5113 | 1ff |
-   | Select | 3.181&nbsp;V | 651 | 7313 | 2db |
-   | none   | 5&nbsp;V | 1023 |  |  |
+   | Up     | 0.495&nbsp;V | 101 |  |  |
+   | Down   | 1.203&nbsp;V | 246 |  |  |
+   | Left   |  |  |  |  |
+   | Select |  |  |  |  |
+   | none   |  |  |  |  |
 
 ### Temperature meter
 
@@ -24,4 +24,3 @@ Consider an application for temperature measurement. Use analog temperature sens
 3. Draw two flowcharts for interrupt handler `TIMER1_OVF_vect` (which overflows every 1&nbsp;sec) and `ADC_vect`. The image can be drawn on a computer or by hand. Use clear descriptions of the individual steps of the algorithms.
 
    ![your figure]()
-
