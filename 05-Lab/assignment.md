@@ -7,8 +7,8 @@
    | **Push button** | **PC0 voltage** | **ADC value (calculated)** | **ADC value (measured)** | **ADC value (measured, hex)** |
    | :-: | :-: | :-: | :-: | :-: |
    | Right  | 0&nbsp;V | 0   | 0 | 0 |
-   | Up     | 0.495&nbsp;V | 101 | 99 | 63 |
-   | Down   | 1.203&nbsp;V | 246 | 257 | 101 |
+   | Up     | 0,495&nbsp;V | 101 | 99 | 63 |
+   | Down   | 1,203&nbsp;V | 246 | 257 | 101 |
    | Left   | 1,969&nbsp;V | 402 | 410 | 19a |
    | Select | 3,181&nbsp;V | 651 | 640 | 280 |
    | none   | 5&nbsp;V | 1023 | 1023 | 3ff |
