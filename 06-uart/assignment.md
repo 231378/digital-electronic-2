@@ -29,5 +29,4 @@
    ![your figure](2diagra.png)
 
 type = 0 -> odd
-
 type = 1 -> even
