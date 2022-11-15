@@ -1,4 +1,4 @@
-# Lab 7: JOSEF KAPLAN
+# Lab 7: JOSEF KAPLAN 
 
 ### Arduino Uno pinout
 
