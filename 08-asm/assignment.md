@@ -4,7 +4,7 @@
 
 1. Complete the conversion table with selected instructions:
 
-   | **Instruction** | **Binary opcode** | **Hex opcode** | **Compiler Hex opcode** |
+   | **Instruction** | **Binary opcode** | **Hex opcode (0x)** | **Compiler Hex opcode** |
    | :-- | :-: | :-: | :-: |
    | `add r24, r0` | `0000_1101_1000_0000` | `0d 80` | `80 0d`|
    | `com r26` | `1001_0101_1010_0000` | `95 a0` | `a0 95` |
